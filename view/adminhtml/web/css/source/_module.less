@@ -1,0 +1,15 @@
+@chronos-icons-admin__font-name-path: '@{baseDir}Burst_Chronos/fonts';
+@chronos-icons-admin__font-name : 'Chronos';
+.lib-font-face(
+  @family-name:@chronos-icons-admin__font-name,
+  @font-path: @chronos-icons-admin__font-name-path,
+  @font-weight: normal,
+  @font-style: normal
+);
+.admin__menu .item-main.parent.level-0 > a:before {
+  font-family: @chronos-icons-admin__font-name;
+  background: url("https://burstcomco-images.s3-us-west-2.amazonaws.com/icon.svg") no-repeat 50% 50%;
+  background-size: 35px auto;
+  height:40px !important;
+  content: ''!important;
+}

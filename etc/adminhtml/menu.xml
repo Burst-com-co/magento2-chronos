@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <!-- <menu>
+        <add id="Burst_Chronos::main" title="Chronos" module="Burst_Chronos" sortOrder="51" resource="Burst_Chronos::helloworld"/>
+        <add id="Burst_Chronos::configuration" title="Configuration" module="Burst_Chronos" sortOrder="99" parent="Burst_Chronos::main" action="adminhtml/system_config/edit/section/helloworld" resource="Burst_Chronos::onfiguration"/>
+    </menu> -->
+</config>
