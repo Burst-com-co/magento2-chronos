@@ -1,5 +1,5 @@
 {
-    "name": "burst_estudio/chronos-magento2",
+    "name": "burst-com-co/magento2-chronos",
     "description": "Module to integrate events from magento 2 to Chronos",
     "type": "magento2-module",
     "version": "1.0.1",
